@@ -1,51 +1,77 @@
 {
-  "cookingEssentialsList":[
-    {
-      "aliasNames":["Black Gram"],
-      "name":"Urad dal",
-      "measurment":"Kilograms",
-      "checked":false
-    },
-    {
-      "aliasNames":["Green Gram"],
-      "name":"Moong dal",
-      "measurment":"Kilograms",
-      "checked":false
-    },
-    {
-      "aliasNames":["Red Gram"],
-      "name":"Toor dal",
-      "measurment":"Kilograms",
-      "checked":false
-    },
-    {
-      "aliasNames":[],
-      "name":"Kabuli chana",
-      "measurment":"Kilograms",
-      "checked":false
-    },{
-      "aliasNames":[],
-      "name":"Kala Chana",
-      "measurment":"Kilograms",
-      "checked":false
-    },
-    {
-      "aliasNames":["Bengal Gram"],
-      "name":"Chana dal",
-      "measurment":"Kilograms",
-      "checked":false
-    },
-    {
-      "aliasNames":["Fried Gram","Brown gram"],
-      "name":"Roasted dal",
-      "measurment":"Kilograms",
-      "checked":false
-    },
-    {
-      "aliasNames":["Ground Nuts"],
-      "name":"Peanuts",
-      "measurment":"Kilograms",
-      "checked":false
-    } 
-  ]
+  "collection": {
+    "cookingEssentialsList": [
+      {
+        "aliasNames": [
+          "Black Gram"
+        ],
+        "name": "Urad dal",
+        "measurment": "Kilograms",
+        "checked": false
+      },
+      {
+        "aliasNames": [
+          "Green Gram"
+        ],
+        "name": "Moong dal",
+        "measurment": "Kilograms",
+        "checked": false
+      },
+      {
+        "aliasNames": [
+          "Red Gram"
+        ],
+        "name": "Toor dal",
+        "measurment": "Kilograms",
+        "checked": false
+      },
+      {
+        "aliasNames": [],
+        "name": "Kabuli chana",
+        "measurment": "Kilograms",
+        "checked": false
+      },
+      {
+        "aliasNames": [],
+        "name": "Kala Chana",
+        "measurment": "Kilograms",
+        "checked": false
+      },
+      {
+        "aliasNames": [
+          "Bengal Gram"
+        ],
+        "name": "Chana dal",
+        "measurment": "Kilograms",
+        "checked": false
+      },
+      {
+        "aliasNames": [
+          "Fried Gram",
+          "Brown gram"
+        ],
+        "name": "Roasted dal",
+        "measurment": "Kilograms",
+        "checked": false
+      },
+      {
+        "aliasNames": [
+          "Ground Nuts"
+        ],
+        "name": "Peanuts",
+        "measurment": "Kilograms",
+        "checked": false
+      }
+    ],
+    "Atta and Flours": [
+      {
+        "aliasNames": [
+          "Ground Nuts"
+        ],
+        "name": "Peanuts",
+        "measurment": "Kilograms",
+        "checked": false
+      }
+    ]
+  }
 }
