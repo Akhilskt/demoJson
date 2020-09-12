@@ -1,3 +1,20 @@
 {
-  "data":[]
+  "data":[
+    {
+      "name": "Product Revenue",
+      "value": 420000
+    },
+    {
+      "name": "Services Revenue",
+      "value": 210000
+    },
+    {
+      "name": "Fixed Costs",
+      "value": -170000
+    },
+    {
+      "name": "Variable Costs",
+      "value": -140000
+    }
+  ]
 }
