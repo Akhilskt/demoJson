@@ -1,20 +1,24 @@
 {
   "data":[
     {
-      "name": "Product Revenue",
-      "value": 420000
+      "name": "Last Month Revenue",
+      "value": 38297
     },
     {
-      "name": "Services Revenue",
-      "value": 210000
+      "name": "Gainers",
+      "value": 17974
     },
     {
-      "name": "Fixed Costs",
-      "value": -170000
+      "name": "Losers",
+      "value": -3979
     },
     {
-      "name": "Variable Costs",
-      "value": -140000
+      "name": "New Entrants",
+      "value": 31282
+    },
+    {
+      "name": "Exits",
+      "value": -30262
     }
   ]
 }
